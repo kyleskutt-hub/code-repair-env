@@ -1,2 +1,2 @@
 [verifiers.environments]
-code-repair-env = code_repair.environment:load_environment
+code-repair-env = code_repair_env.environment:load_environment

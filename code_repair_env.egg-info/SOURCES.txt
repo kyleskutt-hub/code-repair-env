@@ -1,8 +1,8 @@
 README.md
 pyproject.toml
-code_repair/__init__.py
-code_repair/bugs.py
-code_repair/environment.py
+code_repair_env/__init__.py
+code_repair_env/bugs.py
+code_repair_env/environment.py
 code_repair_env.egg-info/PKG-INFO
 code_repair_env.egg-info/SOURCES.txt
 code_repair_env.egg-info/dependency_links.txt
