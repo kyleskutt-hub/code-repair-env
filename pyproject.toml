@@ -4,7 +4,7 @@ version = "0.1.2"
 description = "Code repair RL environment for Prime Intellect verifiers"
 requires-python = ">=3.10"
 dependencies = ["verifiers>=0.1.8", "datasets>=3.0.0"]
-tags = ["code", "python", "debugging", "single-turn"]
+keywords = ["code", "python", "debugging", "single-turn"]
 
 [project.entry-points."verifiers.environments"]
 code-repair-env = "code_repair_env.environment:load_environment"
