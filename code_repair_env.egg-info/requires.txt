@@ -1,0 +1,2 @@
+verifiers>=0.1.8
+datasets>=3.0.0
