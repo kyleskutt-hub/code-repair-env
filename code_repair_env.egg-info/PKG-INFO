@@ -1,7 +1,8 @@
 Metadata-Version: 2.4
 Name: code-repair-env
-Version: 0.1.1
+Version: 0.1.2
 Summary: Code repair RL environment for Prime Intellect verifiers
+Keywords: code,python,debugging,single-turn
 Requires-Python: >=3.10
 Requires-Dist: verifiers>=0.1.8
 Requires-Dist: datasets>=3.0.0
